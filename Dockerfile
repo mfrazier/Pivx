@@ -1,5 +1,5 @@
 FROM debian:jessie
-MAINTAINER kost - https://github.com/kost
+MAINTAINER kost - https://github.com/mfrazier
 
 ENV PIVX_VERSION=2.1.7 \
  PIVX_USER=pivx
